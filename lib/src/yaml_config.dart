@@ -16,8 +16,8 @@ class YamlConfig {
   }
 
   /// This helps to initialize object's properties
-  /// 
-  /// For example, you can get rid of getter methods by initializing 
+  ///
+  /// For example, you can get rid of getter methods by initializing
   /// your own properties when configuration is loaded
   void init() {}
 

@@ -1,6 +1,6 @@
 name: yaml_config
 description: A simple configuration using YAML file
-version: 0.0.1
+version: 0.1.0
 author: Lucas <me@dotronglong.com>
 homepage: https://github.com/dotronglong/dart_yaml_config
 
