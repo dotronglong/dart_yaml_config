@@ -1,0 +1,11 @@
+language: dart
+dart:
+  - dev
+dart_task:
+  - test: --platform vm
+  - dartanalyzer: --fatal-warnings lib
+branches:
+  only: [master]
+cache:
+ directories:
+   - $HOME/.pub-cache

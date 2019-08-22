@@ -1,0 +1,13 @@
+name: yaml_config
+description: A simple configuration using YAML file
+version: 0.0.1
+author: Lucas <me@dotronglong.com>
+homepage: https://github.com/dotronglong/dart_yaml_config
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  yaml: ^2.1.0
+dev_dependencies:
+  test: ^1.3.4
