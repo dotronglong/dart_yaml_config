@@ -3,7 +3,7 @@ description: >-
   A simple configuration using YAML file.
   It is easy to load a local YAML file as
   main configuration for application.
-version: 0.1.1
+version: 0.1.2
 author: Lucas <me@dotronglong.com>
 homepage: https://github.com/dotronglong/dart_yaml_config
 
